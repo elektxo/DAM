@@ -11,9 +11,9 @@ async def ping(ctx):
     await ctx.send('pong')
 
 #Eventos.
-@bot.event()
+@bot.event
 async def on_ready():
-    await bot.change_presence(activity='Tamos ready!')
+    await bot.change_presence(status="Ready!")
     print('El bot esta Listo.')
 
 
