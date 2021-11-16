@@ -1,0 +1,54 @@
+NombreProducto   Sierra de Poda 400MM                                                  
+Gama             Herramientas                                      
+Dimensiones      0,258                    
+Proveedor        HiperGarden Tools                                 
+Descripcion      Gracias a la poda se consigue manipular un poco la naturaleza, d?índole la forma que m?ís nos guste. Este trabajo b?ísico de jardiner?¡a tambi?®n facilita que las plantas crezcan de un modo m?ís equilibrado, y que las flores y los frutos vuelvan cada a??o con regularidad. Lo mejor es dar forma cuando los ejemplares son j??venes, de modo que exijan pocos cuidados cuando sean adultos. Adem?ís de saber cu?índo y c??mo hay que podar, tener unas herramientas adecuadas para esta labor es tambi?®n de vital importa
+Stock            15    
+PrecioVenta      14              
+PrecioProveedor  11       
+  
+NombreProducto   Pala                                                                  
+Gama             Herramientas                                      
+Dimensiones      0,156                    
+Proveedor        HiperGarden Tools                                 
+Descripcion      Palas de acero con cresta de corte en la punta para cortar bien el terreno. Buena penetraci??n en tierras muy compactas.                                                                                                                                                                                                                                                                                                                                                                                                        
+Stock            15    
+PrecioVenta      14              
+PrecioProveedor  13              
+
+NombreProducto   Rastrillo de Jard?¡n                                                  
+Gama             Herramientas                                      
+Dimensiones      1,064                    
+Proveedor        HiperGarden Tools                                 
+Descripcion      Fabuloso rastillo que le ayudar?í a eliminar piedras, hojas, ramas y otros elementos inc??modos en su jard?¡n.                                                                                                                                                                                                                                                                                                                                                                                                                  
+Stock            15    
+PrecioVenta      12              
+PrecioProveedor  11              
+
+NombreProducto   Azad??n                                                               
+Gama             Herramientas                                      
+Dimensiones      0,168                    
+Proveedor        HiperGarden Tools                                 
+Descripcion      Longitud:24cm. Herramienta fabricada en acero y pintura epoxi,alargando su durabilidad y preveniendo la corrosi??n.Dise??o pensado para el ahorro de trabajo.                                                                                                                                                                                                                                                                                                                                                                   
+Stock            15    
+PrecioVenta      12              
+PrecioProveedor  11              
+
+NombreProducto   Ajedrea                                                               
+Gama             Arom?íticas                                       
+Dimensiones      15-20                    
+Proveedor        Murcia Seasons                                    
+Descripcion      Planta arom?ítica que fresca se utiliza para condimentar carnes y ensaladas, y seca, para pastas, sopas y guisantes                                                                                                                                                                                                                                                                                                                                                                                                             
+Stock            140   
+PrecioVenta      1               
+PrecioProveedor  0               
+
+NombreProducto   Lav?índula Dentata                                                    
+Gama             Arom?íticas                                       
+Dimensiones      15-20                    
+Proveedor        Murcia Seasons                                    
+Descripcion      Espliego de jard?¡n, Alhucema rizada, Alhucema dentada, Cantueso rizado. Familia: Lamiaceae.Origen: Espa??a y Portugal. Mata de unos 60 cm de alto. Las hojas son arom?íticas, dentadas y de color verde gris?íceas.  Produce compactas espigas de flores peque??as, ligeramente arom?íticas, tubulares,de color azulado y con br?ícteas p??rpuras.  Frutos: nuececillas alargadas encerradas en el tubo del c?íliz.  Se utiliza en jardineria y no en perfumeria como otros cantuesos, espliegos y lavandas.  Tiene propiedades
+Stock            140   
+PrecioVenta      1               
+PrecioProveedor  0         
+      

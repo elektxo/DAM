@@ -1,0 +1,40 @@
+NombreCliente     Tendo Garden                                      
+FechaPedido       17/1/2006 0:00:00  
+FechaEntrega      19/1/2006 0:00:00  
+Estado            Entregado      
+NombreProducto    Camelia japonica                                                      
+Cantidad          40         
+PrecioUnidad      4               
+ImporteTotal      160             
+Dimensiones       40-60                    
+
+NombreCliente     Tendo Garden                                      
+FechaPedido       17/1/2006 0:00:00  
+FechaEntrega      19/1/2006 0:00:00  
+Estado            Entregado      
+NombreProducto    Mimosa DEALBATA Gaulois Astier                                        
+Cantidad          23         
+PrecioUnidad      14              
+ImporteTotal      322             
+Dimensiones       200-225                  
+
+NombreCliente     Tendo Garden                                      
+FechaPedido       17/1/2006 0:00:00  
+FechaEntrega      19/1/2006 0:00:00  
+Estado            Entregado      
+NombreProducto    Cerezo                                                                
+Cantidad          10         
+PrecioUnidad      70              
+ImporteTotal      700             
+Dimensiones       16/18                    
+
+NombreCliente     Tendo Garden                                      
+FechaPedido       17/1/2006 0:00:00  
+FechaEntrega      19/1/2006 0:00:00  
+Estado            Entregado      
+NombreProducto    Phoenix Canariensis                                                   
+Cantidad          15         
+PrecioUnidad      19              
+ImporteTotal      285             
+Dimensiones       180 - 200                
+

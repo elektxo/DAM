@@ -1,0 +1,38 @@
+<biblioteca>
+    <categoria n="informatica">
+        <libro n="1">
+            <titulo>Windows</titulo>
+            <isbn>44444444</isbn>
+            <autor>Bill Gates</autor>
+        </libro>
+        <libro n="2">
+            <titulo>Linux</titulo>
+            <isbn>55555555</isbn>
+            <autor>Linux Torval</autor>
+        </libro>
+    </categoria>
+    <categoria n="cocina">
+        <libro n="1">
+            <titulo>Postres ricos ricos</titulo>
+            <isbn>66666666</isbn>
+            <autor>Mi mamasita</autor>
+        </libro>
+        <libro n="2">
+            <titulo>Postres no tan ricos pero hay que aceptarlos</titulo>
+            <isbn>77777777</isbn>
+            <autor>La Suegra</autor>
+        </libro>
+    </categoria>
+    <categoria n="Marvel">
+        <libro n="1">
+            <titulo>Sipder-Man</titulo>
+            <isbn>88888888</isbn>
+            <autor>Stan Lee</autor>
+        </libro>
+        <libro n="2">
+            <titulo>Venom</titulo>
+            <isbn>99999999</isbn>
+            <autor>Stan Lee</autor>
+        </libro>
+    </categoria>
+</biblioteca>

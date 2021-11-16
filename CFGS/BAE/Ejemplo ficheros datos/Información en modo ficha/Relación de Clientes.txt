@@ -1,0 +1,65 @@
+NombreCliente      DGPRODUCTIONS GARDEN                              
+NombreContacto     Daniel G                      
+ApellidoContacto   GoldFish                      
+Telefono           5556901745     
+Fax                5556901746     
+LineaDireccion1    False Street 52 2 A                                                                                 
+LineaDireccion2    
+Ciudad             San Francisco                                                                                       
+Region             
+Pais               USA                                               
+CodigoPostal       24006     
+LimiteCredito      3000            
+
+NombreCliente      Gardening Associates                              
+NombreContacto     Anne                          
+ApellidoContacto   Wright                        
+Telefono           5557410345     
+Fax                5557410346     
+LineaDireccion1    Wall-e Avenue                                                                                       
+LineaDireccion2    
+Ciudad             Miami                                             
+Region             Miami                                             
+Pais               USA                                               
+CodigoPostal       24010     
+LimiteCredito      6000            
+
+NombreCliente      Gerudo Valley                                     
+NombreContacto     Link                          
+ApellidoContacto   Flaute                        
+Telefono           5552323129     
+Fax                5552323128     
+LineaDireccion1    Oaks Avenue n??22                                                                                   
+LineaDireccion2    
+Ciudad             New York                                                                                            
+Region             
+Pais               USA                                               
+CodigoPostal       85495     
+LimiteCredito      12000           
+
+NombreCliente      Tendo Garden                                      
+NombreContacto     Akane                         
+ApellidoContacto   Tendo                         
+Telefono           55591233210    
+Fax                55591233211    
+LineaDireccion1    Null Street n??69                                                                                   
+LineaDireccion2    
+Ciudad             Miami                                                                                               
+Region             
+Pais               USA                                               
+CodigoPostal       696969    
+LimiteCredito      600000          
+
+NombreCliente      Lasas S.A.                                        
+NombreContacto     Antonio                       
+ApellidoContacto   Lasas                         
+Telefono           34916540145    
+Fax                34914851312    
+LineaDireccion1    C/Leganes 15                                                                                        
+LineaDireccion2    Fuenlabrada                                       
+Ciudad             Madrid                                            
+Region             
+Pais               Spain                                             
+CodigoPostal       28945     
+LimiteCredito      154310          
+
