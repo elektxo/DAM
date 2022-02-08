@@ -1,5 +1,5 @@
 class Ficha:
-    def __init__(self,ld,li):
+    def __init__(self,li,ld):
         self.__ld = ld
         self.__li = li
 
@@ -21,3 +21,6 @@ class Ficha:
     #metodos
     def inventirFicha(self, ficha):
         return ficha[1],ficha[0]
+    def mostrarFicha(self,):
+        return self.li,self.ld
+
