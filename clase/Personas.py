@@ -123,13 +123,3 @@ class Personas:
         Torneo participados: {self.nro_torneos_participados}
         -----------------------
         '''
-
-
-
-user01 = Personas("paco","alfonso","putensio",11)
-user01.modificarEdad(1)
-user01.incrementarNroPartidasGanadas()
-user01.incrementarNroTorneosGanados()
-user01.incrementarNroTorneosParticipados()
-user01.incrementarNroPartidasTotales()
-print(user01.mostrarDatosPersona())

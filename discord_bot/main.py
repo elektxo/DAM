@@ -1,29 +1,31 @@
 #Librerias.
+from discord import *
 import discord
 from discord.ext import commands
-import time
+
 # Prefix
+
 bot =  commands.Bot(command_prefix='!', description='Bot de clase...')
 
 #Comandos.
 @bot.command()
 
 async def ping(ctx):
-    ms1= time.monotonic()
-    mensaje = await ctx.send('Pong! ')
-    ms2 = (time.monotonic() - ms1)*1000
-    ms = (str(ms2).split("."))[0]
-    await mensaje.edit(content="Pong! " + ms + " ms.")
+    await ctx.send("Pong! " + round(bot.latency*1000)+ " ms.")
 
 
 
 #Eventos.
 @bot.event
+
 async def on_ready():
     await bot.change_presence(status="Ready!")
     print('El bot esta Listo.')
+#Información del Bot
+    embed = discord.Embed(title="Bot Pruebas")
+    embed.set_footer("Esto es una puta prueba bro.")
 
-   
+    await
 
 
 #Token bot.
