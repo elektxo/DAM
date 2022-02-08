@@ -35,9 +35,10 @@ class Personas:
         while True:
             if edad >= 12:
                 self.__edad = edad
+                self.__actualizarCategoria(edad)
                 break
             else:
-                edad = input("Introduce una edad mayor o igual a 12 años: ")
+                edad = int(input("Introduce una edad mayor o igual a 12 años: "))
     #getter/setter psudonimo.
     @property
     def psudonimo(self):
@@ -99,7 +100,7 @@ class Personas:
         self.nro_torneos_ganados += 1
 
     def incrementarNroTorneosParticipados(self):
-        self.nro_torneos_participados +1
+        self.nro_torneos_participados=11+1
     def __actualizarCategoria(self,edad):
         if edad >= 12 and  edad <= 17:
             self.categoria = "Juvenil"
@@ -122,3 +123,13 @@ class Personas:
         Torneo participados: {self.nro_torneos_participados}
         -----------------------
         '''
+
+
+
+user01 = Personas("paco","alfonso","putensio",11)
+user01.modificarEdad(1)
+user01.incrementarNroPartidasGanadas()
+user01.incrementarNroTorneosGanados()
+user01.incrementarNroTorneosParticipados()
+user01.incrementarNroPartidasTotales()
+print(user01.mostrarDatosPersona())
